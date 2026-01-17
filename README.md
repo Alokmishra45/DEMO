@@ -1,3 +1,3 @@
 # DEMO
 This is my first Git Repository
-Authot - Alok kumar mishra
+Author - Alok kumar mishra
